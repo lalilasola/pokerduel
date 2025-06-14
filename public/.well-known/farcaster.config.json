@@ -1,0 +1,11 @@
+{
+  "name": "Poker Duel",
+  "version": "1.0.0",
+  "description": "1v1 Texas Hold'em poker game on Farcaster",
+  "homeUrl": "https://pokerduel.example.com",
+  "imageUrl": "https://pokerduel.example.com/og-image.png",
+  "buttonTitle": "Play Poker",
+  "splashImageUrl": "https://pokerduel.example.com/og-image.png",
+  "splashBackgroundColor": "#064E3B",
+  "webhookUrl": "https://pokerduel.example.com/api/webhook"
+}
