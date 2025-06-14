@@ -7,12 +7,12 @@
   "frame": {
     "version": "0.0.1",
     "name": "Poker Duel",
-    "iconUrl": "https://pokerduel.vercel.app/og-image.svg",
-    "homeUrl": "https://pokerduel.vercel.app",
-    "imageUrl": "https://pokerduel.vercel.app/og-image.svg",
+    "iconUrl": "https://pokerduels.vercel.app/og-image.svg",
+    "homeUrl": "https://pokerduels.vercel.app",
+    "imageUrl": "https://pokerduels.vercel.app/og-image.svg",
     "buttonTitle": "Play Poker",
-    "splashImageUrl": "https://pokerduel.vercel.app/og-image.svg",
+    "splashImageUrl": "https://pokerduels.vercel.app/og-image.svg",
     "splashBackgroundColor": "#064E3B",
-    "webhookUrl": "https://pokerduel.vercel.app/api/webhook"
+    "webhookUrl": "https://pokerduels.vercel.app/api/webhook"
   }
 }
