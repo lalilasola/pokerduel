@@ -1,0 +1,70 @@
+[11:17:09.624] Running build in Washington, D.C., USA (East) – iad1
+[11:17:09.624] Build machine configuration: 2 cores, 8 GB
+[11:17:09.640] Cloning github.com/lalilasola/pokerduel (Branch: main, Commit: 8adbbb2)
+[11:17:09.824] Previous build caches not available
+[11:17:10.423] Cloning completed: 783.000ms
+[11:17:10.796] Running "vercel build"
+[11:17:11.245] Vercel CLI 42.2.0
+[11:17:11.619] Running "install" command: `npm install`...
+[11:17:16.723] npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+[11:17:16.763] npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+[11:17:30.356] 
+[11:17:30.356] added 520 packages, and audited 521 packages in 18s
+[11:17:30.356] 
+[11:17:30.357] 72 packages are looking for funding
+[11:17:30.357]   run `npm fund` for details
+[11:17:30.396] 
+[11:17:30.397] 8 vulnerabilities (1 low, 7 moderate)
+[11:17:30.397] 
+[11:17:30.397] To address issues that do not require attention, run:
+[11:17:30.397]   npm audit fix
+[11:17:30.397] 
+[11:17:30.397] To address all issues (including breaking changes), run:
+[11:17:30.397]   npm audit fix --force
+[11:17:30.397] 
+[11:17:30.397] Run `npm audit` for details.
+[11:17:30.630] Detected Next.js version: 15.3.3
+[11:17:30.632] Running "next build"
+[11:17:31.916]  ⚠ Invalid next.config.js options detected: 
+[11:17:31.917]  ⚠     Unrecognized key(s) in object: 'appDir' at "experimental"
+[11:17:31.917]  ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[11:17:32.036] Attention: Next.js now collects completely anonymous telemetry regarding usage.
+[11:17:32.036] This information is used to shape Next.js' roadmap and prioritize features.
+[11:17:32.037] You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+[11:17:32.037] https://nextjs.org/telemetry
+[11:17:32.037] 
+[11:17:32.150]    ▲ Next.js 15.3.3
+[11:17:32.150] 
+[11:17:32.219]    Creating an optimized production build ...
+[11:17:35.754] Failed to compile.
+[11:17:35.757] 
+[11:17:35.757] ./app/page.tsx
+[11:17:35.757] Module not found: Can't resolve '@/components/GameTable'
+[11:17:35.757] 
+[11:17:35.757] https://nextjs.org/docs/messages/module-not-found
+[11:17:35.757] 
+[11:17:35.757] ./app/page.tsx
+[11:17:35.757] Module not found: Can't resolve '@/components/StatsPanel'
+[11:17:35.757] 
+[11:17:35.758] https://nextjs.org/docs/messages/module-not-found
+[11:17:35.758] 
+[11:17:35.758] ./app/page.tsx
+[11:17:35.758] Module not found: Can't resolve '@/components/WinnerModal'
+[11:17:35.758] 
+[11:17:35.758] https://nextjs.org/docs/messages/module-not-found
+[11:17:35.758] 
+[11:17:35.758] ./app/page.tsx
+[11:17:35.758] Module not found: Can't resolve '@/hooks/usePokerGame'
+[11:17:35.758] 
+[11:17:35.758] https://nextjs.org/docs/messages/module-not-found
+[11:17:35.759] 
+[11:17:35.759] ./app/page.tsx
+[11:17:35.759] Module not found: Can't resolve '@/hooks/useFarcasterAuth'
+[11:17:35.759] 
+[11:17:35.759] https://nextjs.org/docs/messages/module-not-found
+[11:17:35.759] 
+[11:17:35.783] 
+[11:17:35.786] > Build failed because of webpack errors
+[11:17:35.813] Error: Command "next build" exited with 1
+[11:17:36.501] 
+[11:17:39.282] Exiting build container
