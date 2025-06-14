@@ -2,10 +2,10 @@
   "name": "Poker Duel",
   "version": "1.0.0",
   "description": "1v1 Texas Hold'em poker game on Farcaster",
-  "homeUrl": "https://pokerduel.vercel.app",
-  "imageUrl": "https://pokerduel.vercell.app/og-image.svg",
+  "homeUrl": "https://pokerduels.vercel.app",
+  "imageUrl": "https://pokerduels.vercell.app/og-image.svg",
   "buttonTitle": "Play Poker",
-  "splashImageUrl": "https://pokerduel.vercel.app/og-image.svg",
+  "splashImageUrl": "https://pokerduels.vercel.app/og-image.svg",
   "splashBackgroundColor": "#064E3B",
-  "webhookUrl": "https://pokerduel.vercel.app/api/webhook"
+  "webhookUrl": "https://pokerduels.vercel.app/api/webhook"
 }
