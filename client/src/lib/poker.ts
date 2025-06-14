@@ -58,7 +58,7 @@ function checkFlush(cards: Card[]): boolean {
 }
 
 function checkStraight(cards: Card[]): boolean {
-  const uniqueValues = [...new Set(cards.map(c => c.value))].sort((a, b) => b - a);
+  const uniqueValues = Array.from(new Set(cards.map(c => c.value))).sort((a, b) => b - a);
   
   for (let i = 0; i <= uniqueValues.length - 5; i++) {
     let consecutive = 1;
