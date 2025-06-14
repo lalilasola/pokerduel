@@ -51,6 +51,12 @@ export default {
           "4": "var(--chart-4)",
           "5": "var(--chart-5)",
         },
+        "poker-green": "var(--poker-green)",
+        "poker-felt": "var(--poker-felt)",
+        "poker-gold": "var(--poker-gold)",
+        "wood-brown": "var(--wood-brown)",
+        "card-red": "var(--card-red)",
+        "card-black": "var(--card-black)",
         sidebar: {
           DEFAULT: "var(--sidebar-background)",
           foreground: "var(--sidebar-foreground)",

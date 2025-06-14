@@ -1,0 +1,32 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#064E3B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#065F46;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Title -->
+  <text x="600" y="200" font-family="Arial, sans-serif" font-size="72" font-weight="bold" text-anchor="middle" fill="#FBBF24">
+    Poker Duel
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="270" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#E5E7EB">
+    1v1 Texas Hold'em on Farcaster
+  </text>
+  
+  <!-- Card symbols -->
+  <text x="450" y="400" font-family="Arial, sans-serif" font-size="64" text-anchor="middle" fill="#DC2626">♥</text>
+  <text x="550" y="400" font-family="Arial, sans-serif" font-size="64" text-anchor="middle" fill="#1F2937">♠</text>
+  <text x="650" y="400" font-family="Arial, sans-serif" font-size="64" text-anchor="middle" fill="#DC2626">♦</text>
+  <text x="750" y="400" font-family="Arial, sans-serif" font-size="64" text-anchor="middle" fill="#1F2937">♣</text>
+  
+  <!-- Call to action -->
+  <text x="600" y="500" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#D1D5DB">
+    Play Now on Farcaster
+  </text>
+</svg>

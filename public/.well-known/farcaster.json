@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhkYmJjYzIzMDE0NTNhNDQxZDY1MTFkMzliMDY4Y2M4OTFkN2Y3MjQ4In0",
+    "payload": "eyJkb21haW4iOiJwb2tlci5kZXYifQ",
+    "signature": "MHgzMGY0NjE4MjkyOGVhNzE1OGI5M2M3YjI2NWJmNDA1N2FkNWFhNDA2MDA4MGQzNzM0YTFkMzAzYzFhZjE2MTUzNTEwNjk3MThhNjU0OTcxNTIyNzAzMTM5ZGEzYzNlMjZiNjJmYjNkMTgwZmRlM2QxNjA5MmZhNzQ3NzBhYzNmMDFj"
+  },
+  "frame": {
+    "version": "0.0.1",
+    "name": "Poker Duel",
+    "iconUrl": "https://poker-duel.replit.app/og-image.png",
+    "homeUrl": "https://poker-duel.replit.app",
+    "imageUrl": "https://poker-duel.replit.app/og-image.png",
+    "buttonTitle": "Play Poker",
+    "splashImageUrl": "https://poker-duel.replit.app/og-image.png",
+    "splashBackgroundColor": "#064E3B",
+    "webhookUrl": "https://poker-duel.replit.app/api/webhook"
+  }
+}
