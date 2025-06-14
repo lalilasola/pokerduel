@@ -113,6 +113,7 @@ Poker Duel is a 1v1 Texas Hold'em poker game designed as a Farcaster mini-app. T
 ```
 Changelog:
 - June 14, 2025. Initial setup
+- June 14, 2025. Converting to Next.js structure for Vercel deployment
 ```
 
 ## User Preferences

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import GameTable from '@/components/GameTable';
 import StatsPanel from '@/components/StatsPanel';
 import WinnerModal from '@/components/WinnerModal';
